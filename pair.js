@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
 ╭─═━⌬━═─⊹⊱✦⊰⊹─═━⌬━═─ 
 ╎   『 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 』   
-╎  ✦ sᴛᴀʀᴄᴏʀᴇ sᴇssɪᴏɴ
+╎  ✦ cyberia sᴇssɪᴏɴ
 ╎  ✦  ʙʏ ᴅᴇᴠ sung
 ╰╴╴╴╴
 
@@ -70,7 +70,7 @@ router.get('/', async (req, res) => {
 ╟   『 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 』  
 ╟  🎥 𝐘𝐨𝐮𝐓𝐮𝐛𝐞: youtube.com/@malvintech2  
 ╟  👑 𝐎𝐰𝐧𝐞𝐫: (num unavailable due to spam)  
-╟  💻 𝐑𝐞𝐩𝐨: github.com/NaCkS-ai2/Cyberia-MD
+╟  💻 𝐑𝐞𝐩𝐨: github.com/NaCkS-ai/Cyberia-MD
 ╟       
 ╟  👥 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/Dx7HbtW7Cf12iCVjJBpD0x?mode=ac_t 
 ╟  📢 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S 
